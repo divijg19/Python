@@ -107,8 +107,8 @@ To get a local copy up and running, please follow these steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your_username/Project-Snapdragon.git
-    cd Project-Snapdragon
+    git clone https://github.com/divijg19/Snapdragon.git
+    cd Snapdragon
     ```
 2.  **Create and activate a virtual environment:**
     ```sh
