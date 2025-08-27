@@ -8,7 +8,7 @@ Python Practice and Testing Repo
 *A structured 13-week sprint to master production-grade Python for data science and machine learning.*
 
 [![Project Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/your_username/Project-Snapdragon)
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.14%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
