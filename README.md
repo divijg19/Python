@@ -17,11 +17,10 @@ Python Practice and Testing Repo
 
 ## The Mission
 
-In today's tech landscape, knowing Python isn't enough. **Project Snapdragon** is a deliberate and intensive journey to bridge the gap between academic knowledge and job-ready, professional-grade Python development.
+In today's tech landscape, knowing Python isn't enough. **Project Snapdragon** is a deliberate and intensive journey to bridge the gap between academic knowledge and job-ready, professional-grade Python development- a living project, showcasing a commitment to best practices and continuous learning.
 
 This repository documents a three-month curriculum focused on writing clean, efficient, and production-ready code. The goal is not just to learn libraries, but to internalize the "Pythonic" way of thinking and to master the complete workflow—from data cleaning and model training to API deployment and testing.
 
-This is a living project, showcasing a commitment to best practices and continuous learning.
 
 ## The 13-Week Curriculum
 
