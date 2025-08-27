@@ -1,9 +1,9 @@
-# Python
+# Snapdragon
 Python Practice and Testing Repo
 
 <div align="center">
 
-# Snapdragon
+# Python
 
 *A structured 13-week sprint to master production-grade Python for data science and machine learning.*
 
