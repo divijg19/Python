@@ -1,4 +1,4 @@
-# Snapdragon
+# Aconite
 Python Practice and Testing Repo
 
 <div align="center">
@@ -7,7 +7,7 @@ Python Practice and Testing Repo
 
 *A structured 13-week sprint to master production-grade Python for data science and machine learning.*
 
-[![Project Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/your_username/Project-Snapdragon)
+[![Project Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/divijg19/Aconite)
 [![Python Version](https://img.shields.io/badge/python-3.14%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -17,7 +17,7 @@ Python Practice and Testing Repo
 
 ## The Mission
 
-In today's tech landscape, knowing Python isn't enough. **Project Snapdragon** is a deliberate and intensive journey to bridge the gap between academic knowledge and job-ready, professional-grade Python development- a living project, showcasing a commitment to best practices and continuous learning.
+In today's tech landscape, knowing Python isn't enough. **Project Aconite** is a deliberate and intensive journey to bridge the gap between academic knowledge and job-ready, professional-grade Python development- a living project, showcasing a commitment to best practices and continuous learning.
 
 This repository documents a three-month curriculum focused on writing clean, efficient, and production-ready code. The goal is not just to learn libraries, but to internalize the "Pythonic" way of thinking and to master the complete workflow—from data cleaning and model training to API deployment and testing.
 
@@ -76,7 +76,7 @@ This repository culminates in a complete, end-to-end machine learning project th
 The repository is organized by week, making it easy to follow the journey and find specific code examples and notes.
 
 ```
-/Snapdragon
+/Aconite
 ├── month1_python_mastery/
 │   ├── week1_core_python/
 │   │   ├── notes.md
@@ -107,8 +107,8 @@ To get a local copy up and running, please follow these steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/divijg19/Snapdragon.git
-    cd Snapdragon
+    git clone https://github.com/divijg19/Aconite.git
+    cd Aconite
     ```
 2.  **Create and activate a virtual environment:**
     ```sh
