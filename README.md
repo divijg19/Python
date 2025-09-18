@@ -117,7 +117,7 @@ To get a local copy up and running, please follow these steps.
     ```
 3.  **Install the required dependencies:**
     ```sh
-    pip install -r requirements.txt
+    uv install -r requirements.txt
     ```
 
 ## Technology Stack
@@ -128,7 +128,7 @@ This project exclusively uses modern, industry-standard tools.
 *   **Data Science:** NumPy, Pandas
 *   **Machine Learning:** PyTorch, Keras
 *   **API Development:** FastAPI
-*   **Testing & Tooling:** pytest, venv, cProfile
+*   **Testing & Tooling:** uv, pytest, venv, cProfile
 
 ## Let's Connect
 
